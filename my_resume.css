@@ -1,0 +1,52 @@
+h1 {
+    font-family: 'Roboto Slab', serif;
+    color: #4e4f59;
+    background-color: white;
+    text-align: center;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 0.5;
+}
+h2, h3 {
+    font-family: 'Roboto Slab', serif;
+    color: #71757a;
+    background-color: white;
+    text-align: center;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 0.5;
+}
+h4 {
+    font-family: 'Roboto Slab', serif;
+    color: #71757a;
+    background-color: white;
+    text-align: center;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 0.1;
+}
+#edu1, #coll1, #cgpa, #course, #exp, #techsk, #wexp, #hob {
+    font-family: 'Raleway', sans-serif;
+    color: #000914;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 0.1;
+}
+#edu2, #coll2, #val, #c1, #c2, #c3, #pro, #lang, #op, #soft, #csat, #ms, #foot, #sing {
+    font-family: 'Dosis', sans-serif;
+    color: #010d1c;
+    background-color: white;
+    text-align: center;
+    font-weight: normal;
+    font-size: 22px;
+}
+#hr1 {
+    width: 1500px;
+    float: center;
+}
+#hr2, #hr3, #hr4, #hr5, #hr6, #hr7, #hr8, #hr9 {
+    width: 250px;
+    float: center;
+}
